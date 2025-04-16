@@ -1,4 +1,4 @@
-# atividade-avaliativa01# Catálogo de Séries (SPA)
+## Catálogo de Séries (SPA)
 
 Este é um projeto de aplicação web desenvolvido como parte de uma prática avaliativa. A aplicação permite o cadastro, visualização e remoção de séries favoritas, utilizando apenas *HTML, **CSS* e *JavaScript puro, com estrutura de **Single Page Application (SPA)*.
 
@@ -13,9 +13,12 @@ Este é um projeto de aplicação web desenvolvido como parte de uma prática av
 
 ## Como Executar o Projeto
 
-1. Clone o repositório.
-2. Abra o arquivo index.html em um navegador moderno.
-3. Navegue entre as seções de cadastro e listagem utilizando os botões no topo da página.
+1. Clone o repositório em alguma IDE.
+2. Abra um novo terminal (Ctrl + Shift + `).
+3. Digite "cd .\atividade-avaliativa01\pratica1\".
+4. Ainda no terminal, digite "cmd", e em seguida "npm install".
+5. Por fim, digite "npm run dev".
+6. Navegue entre as seções de cadastro e listagem utilizando os botões no topo da página.
 
 ## Tecnologias Utilizadas
 
